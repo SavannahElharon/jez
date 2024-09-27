@@ -7,7 +7,7 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
-
+//setup
 public class JEZ {
     private static final Interpreter interpreter = new Interpreter();
     static boolean hadError = false;
